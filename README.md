@@ -1,15 +1,15 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Owen;Experience+Architect;Building+tools+that+feel+right" alt="Typing SVG" />
+</h1>
 
-# Hi there, I'm Owen 👋
+<p align="center">
+  <em>누구에게나 스며드는 제품을 만드는 것을 목표로 하고 있습니다.</em><br>
+  <em>좋은 제품을 만들기 위해 경험자의 시선에 가까워지도록 고민합니다.</em>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Experience+Architect;Building+tools+that+feel+right;Crafting+seamless+developer+experience)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/owen-ever?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/owen-ever)
-[![GitHub User's stars](https://img.shields.io/github/stars/owen-ever?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/owen-ever)
-[![Profile Views](https://komarev.com/ghpvc/?username=owen-ever&style=for-the-badge&color=blueviolet)](https://github.com/owen-ever)
-[![Blog](https://img.shields.io/badge/Blog-blog.owen.kr-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blog.owen.kr)
-
-</div>
+<p align="center">
+  <a href="https://blog.owen.kr"><img src="https://img.shields.io/badge/Blog-blog.owen.kr-FF5722?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -17,14 +17,13 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Agent Matrix](https://img.shields.io/badge/Agent_Matrix-339933?style=for-the-badge&logo=ai&logoColor=black)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-dc143c?style=for-the-badge&logo=openclaw&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-3178C6?style=for-the-badge&logo=google&logoColor=white)
 
-*복잡한 것을 단순하게, 경험의 개선이 품질의 향상이라고 믿습니다.* ✨
+*복잡한 것을 단순하게, 경험의 개선이 품질의 향상이라고 믿습니다.*
 
 </div>
 
