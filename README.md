@@ -7,10 +7,6 @@
   <em>좋은 제품을 만들기 위해 경험자의 시선에 가까워지도록 고민합니다.</em>
 </p>
 
-<p align="center">
-  <a href="https://blog.owen.kr"><img src="https://img.shields.io/badge/Blog-blog.owen.kr-FF5722?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
