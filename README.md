@@ -13,11 +13,12 @@
 
 <div align="center">
 
-![Agent Matrix](https://img.shields.io/badge/Agent_Matrix-339933?style=for-the-badge&logo=ai&logoColor=black)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-dc143c?style=for-the-badge&logo=openclaw&logoColor=white)
+![Agent Ring](https://img.shields.io/badge/Agent_Ring-339933?style=for-the-badge&logo=ai&logoColor=white)
+![Zigmini](https://img.shields.io/badge/Zigmini-ffbf00?style=for-the-badge&logo=zigmini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-3178C6?style=for-the-badge&logo=google&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-0000e8?style=for-the-badge&logo=hermes&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-dc143c?style=for-the-badge&logo=openclaw&logoColor=white)
 
 *복잡한 것을 단순하게, 경험의 개선이 품질의 향상이라고 믿습니다.*
 
