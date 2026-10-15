@@ -63,17 +63,16 @@ Ad-hoc agent delegation을 추적 가능한 워크플로우로 전환합니다.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=owen-ever&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-ever&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Tokens Usage
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owen-ever&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://tokscale.ai/u/owen-ever"><img alt="Tokscale Stats for @owen-ever" src="https://tokscale.ai/api/embed/owen-ever/svg?theme=light&template=graph&rank=percent&tokens=compact&cost=compact" /></a>
 
 </div>
 
