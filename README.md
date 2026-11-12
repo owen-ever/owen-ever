@@ -31,10 +31,10 @@
 <div align="center">
 
 <a href="https://www.npmjs.com/package/zigmini">
-  <img src="https://img.shields.io/badge/zigmini-Personal_AI_Agent_Gateway-ffbf00?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/zigmini-Personal_AI_Agent-ffbf00?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
-**A personal AI agent gateway that runs on your Mac.**
+**A personal AI agent that runs on your Mac.**
 
 Mac 웹 화면과 Android 앱에서 에이전트와 대화하고, 일을 맡기고, 알림을 받습니다.
 
