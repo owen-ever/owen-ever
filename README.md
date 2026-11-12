@@ -30,18 +30,18 @@
 
 <div align="center">
 
-<a href="https://github.com/owen-ever/zigrix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owen-ever&repo=zigrix&theme=github_dark&hide_border=true&show_owner=true" />
+<a href="https://www.npmjs.com/package/zigmini">
+  <img src="https://img.shields.io/badge/zigmini-Personal_AI_Agent_Gateway-ffbf00?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 
-**OpenClaw-first orchestration CLI for tracked, multi-agent execution.**
+**A personal AI agent gateway that runs on your Mac.**
 
-Ad-hoc agent delegation을 추적 가능한 워크플로우로 전환합니다.
+Mac 웹 화면과 Android 앱에서 에이전트와 대화하고, 일을 맡기고, 알림을 받습니다.
 
-[![npm](https://img.shields.io/npm/v/zigrix?color=cb3837&style=flat-square)](https://www.npmjs.com/package/zigrix)
-![Node](https://img.shields.io/badge/node-%3E%3D22-339933?style=flat-square&logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-first-6f42c1?style=flat-square)
+[![npm](https://img.shields.io/npm/v/zigmini?color=cb3837&style=flat-square)](https://www.npmjs.com/package/zigmini)
+![Bun](https://img.shields.io/badge/bun-%3E%3D1.4-000000?style=flat-square&logo=bun&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Apple_Silicon-000000?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-app-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </div>
 
