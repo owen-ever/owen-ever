@@ -51,20 +51,10 @@ Mac 웹 화면과 Android 앱에서 에이전트와 대화하고, 일을 맡기�
 
 ```text
 🏗️ Main        Experience Architecture — 사용자 경험 설계
-🔭 Building    Zigrix — Multi-Agent Orchestration CLI
+🔭 Building    Zigmini — Personal AI Agent on Mac
 🧪 Exploring   MCP Tools, AI Agent Workflows
 ✍️ Writing     blog.owen.kr — Ever.Log
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=owen-ever&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-
-</div>
 
 ---
 
